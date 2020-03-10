@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f30e6b1c-ebdd-46e7-be43-62bd52b69e24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqycB17C0nT8vD1s8iX1t8UE4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDriver" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="WebTest2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MAHARAJ\IdeaProjects\ScenarioOutline\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScenarioOutline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest2" />
+      <option name="MAIN_CLASS_NAME" value="WebTest2.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30e6b1c-ebdd-46e7-be43-62bd52b69e24" name="Default Changelist" comment="" />
+      <created>1583684495118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583684495118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583703524888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="427" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583703524888" />
+    <state width="1323" height="265" key="GridCell.Tab.0.bottom" timestamp="1583762151382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583762151382" />
+    <state width="1323" height="265" key="GridCell.Tab.0.center" timestamp="1583762151382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583762151382" />
+    <state width="1323" height="265" key="GridCell.Tab.0.left" timestamp="1583762151382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583762151382" />
+    <state width="1323" height="265" key="GridCell.Tab.0.right" timestamp="1583762151382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="265" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583762151382" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1583690610865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583690610865" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583702692387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583702692387" />
+    <state x="141" y="111" key="caller.chooser.dialog" timestamp="1583758733064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="111" key="caller.chooser.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583758733064" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583743459004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583743459004" />
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583709006280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583709006280" />
+  </component>
+</project>
